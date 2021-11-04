@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Note to self",
+      "desc": "Take out the garbage",
+      "when": 1635992022110
+    },
+    {
+      "id": "2",
+      "title": "The second note",
+      "desc": "The note description",
+      "when": 1635992672209
+    }
+  ]
+}
